@@ -1,0 +1,26 @@
+{
+  "trilhas": {
+    "Ciência de Dados": { "matematica": 5, "logica": 4, "visual": 1, "infra": 2, "negocios": 3 },
+    "Desenvolvimento Front-end": { "matematica": 1, "logica": 3, "visual": 5, "infra": 1, "negocios": 3 },
+    "DevOps & SRE": { "matematica": 2, "logica": 4, "visual": 1, "infra": 5, "negocios": 2 },
+    "Desenvolvimento Back-end": { "matematica": 3, "logica": 5, "visual": 1, "infra": 3, "negocios": 2 },
+    "Engenharia de Dados": { "matematica": 4, "logica": 4, "visual": 1, "infra": 4, "negocios": 2 },
+    "Cibersegurança": { "matematica": 3, "logica": 3, "visual": 1, "infra": 5, "negocios": 2 },
+    "Computação em Nuvem (Cloud)": { "matematica": 2, "logica": 3, "visual": 1, "infra": 5, "negocios": 3 },
+    "Desenvolvimento Mobile": { "matematica": 2, "logica": 4, "visual": 4, "infra": 1, "negocios": 2 },
+    "Engenharia de Qualidade (QA)": { "matematica": 2, "logica": 4, "visual": 2, "infra": 3, "negocios": 3 },
+    "Gestão de Produtos (PM)": { "matematica": 2, "logica": 2, "visual": 3, "infra": 1, "negocios": 5 }
+  },
+  "roadmap_juniors": {
+    "Ciência de Dados": ["Python Avançado", "Estatística Básica", "Pandas & Numpy", "SQL e Bancos Relacionais", "Projeto de IA/ML no GitHub"],
+    "Desenvolvimento Front-end": ["HTML/CSS Semântico", "JavaScript ES6+", "Framework (React/Vue/Angular)", "Figma básico", "Portfólio com páginas responsivas"],
+    "DevOps & SRE": ["Linux (Linha de comando)", "Redes Básicas", "Docker & Containers", "Git e CI/CD", "Projeto de automação (AWS/GCP)"],
+    "Desenvolvimento Back-end": ["Lógica de Programação e Algoritmos", "Linguagem OO (Java, C# ou Python)", "Construção de APIs REST", "Bancos de Dados (SQL/NoSQL)", "Testes Unitários"],
+    "Engenharia de Dados": ["Python Avançado", "SQL e Bancos Relacionais", "Modelagem de Dados", "Apache Spark ou Kafka", "Pipelines ETL em Nuvem"],
+    "Cibersegurança": ["Redes Básicas", "Linux (Linha de comando)", "Fundamentos de Criptografia", "Ferramentas de Pentest (Kali)", "Conceitos OWASP Top 10"],
+    "Computação em Nuvem (Cloud)": ["Redes Básicas", "Linux (Linha de comando)", "Fundamentos AWS/Azure/GCP", "Infraestrutura como Código (Terraform)", "Conceitos de Alta Disponibilidade"],
+    "Desenvolvimento Mobile": ["Lógica de Programação e Algoritmos", "React Native ou Flutter", "Swift ou Kotlin", "Consumo de APIs REST", "Publicação nas Lojas"],
+    "Engenharia de Qualidade (QA)": ["Lógica de Programação e Algoritmos", "Conceitos de Testes de Software", "Testes Automatizados (Selenium/Cypress)", "Criação de Casos de Teste", "Testes Unitários"],
+    "Gestão de Produtos (PM)": ["Metodologias Ágeis (Scrum/Kanban)", "Métricas de Produto", "Figma básico", "Levantamento de Requisitos", "Técnicas de Priorização"]
+  }
+}
